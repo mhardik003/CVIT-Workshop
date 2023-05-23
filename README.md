@@ -26,9 +26,11 @@
 
 # Day 2
 
-## Session 1 (Document Imaging) 
+## Task 1 (Document Imaging) 
     - Intro to Document Imaging
     - Hands-on Task
+        - Canny Edge Detection
+        - Hough Line Transform
         - Skew Correction
             -(Not aligned with the horizontal axis)
             - Correction by Rotation 
@@ -36,3 +38,11 @@
             - Reduces the acuracy of OCR
         - Line And Word Detection
         - Reading Check Number
+
+        - HW : try root(sobelX^2 + sobel^2) and compare with Canny
+        - Non-Maximal Suppresion
+
+## Task 2 (Word and Line Detection)
+
+## Task 3 (Cheque Number Reader)
+    - 
