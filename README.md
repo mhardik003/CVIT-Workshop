@@ -46,3 +46,11 @@
 
 ## Task 3 (Cheque Number Reader)
     - 
+
+
+# Day 3
+## Task 1 (Convex Optimization)
+    - rlfjn
+    
+## Task 2 (Medical Imaging)
+    - kfkj
