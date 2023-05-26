@@ -117,3 +117,11 @@ Short rundown of tasks done on each day:
         - Gradient Descent
             - Different Loss Functions for Gradient Descent
 
+
+    - Neural nets
+        - Basics
+    
+    - Formula for neural nets $\sum_{i=1}^n(w_ix_i + b)$
+    - Activation Functions
+    
+    
