@@ -91,3 +91,29 @@ Short rundown of tasks done on each day:
 
     - Windowing for different parts of the body
     - Parallel Beam Tomographic Reconstruction using Simple Backprojection
+
+
+# Day 4 
+
+## Session 1 ( 3-D )
+    - Intro to 3D
+    - PyMesh
+    - Open3D
+    - ICP
+     
+## Session 2
+    - Blender
+
+# Day 5
+## Sesion 1 (Basics of ML)
+    - Basics of ML
+    - K- Nearest Neighbours
+    - K-Means Clustering
+        - Distance Metrics
+
+    - Linear Decision Boundaries
+        - Loss function 
+        - Minimizing the loss fucntion with respect to the parameters (weights)
+        - Gradient Descent
+            - Different Loss Functions for Gradient Descent
+
