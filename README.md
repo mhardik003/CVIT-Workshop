@@ -123,5 +123,23 @@ Short rundown of tasks done on each day:
     
     - Formula for neural nets $\sum_{i=1}^n(w_ix_i + b)$
     - Activation Functions
-    
-    
+
+## Session 2 
+    - Classifier for a small dataset
+    - Face detection
+    - Face Recognition
+
+
+# Day 6
+## Session 1
+    - Basics of Research (more on notion page)
+
+## Session 2
+    - Intro to experiment tracking with W&B
+        - Basics
+        - Sweeps
+        - Other features
+    - Multi- threading and multi-processing using concurrent.futures
+    - Image captioning
+        - Multi-modality
+        
