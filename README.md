@@ -5,11 +5,15 @@ Notes for the workshop are written at this <a href = "https://mhardik003.notion.
 
 Have the following packages installed to run the programs:
 ```
+pip install numpy
 pip install opencv-python
 pip install dicom
 pip install pydicom
 pip install scipy
 pip install scikit-image
+pip install torch
+pip install torchvision
+
 ```
 
 Also, feel free to make a pull request if you find any bugs in the code, since it is my first time doing this, I am sure there will be a lot of bugs.
@@ -143,3 +147,12 @@ Short rundown of tasks done on each day:
     - Image captioning
         - Multi-modality
         
+
+#  Day 7
+## Session 1
+    - Intro to Conv Nets
+        - Basics
+        - Convolutions
+        - Different Architectures
+        - Hands-on with MNIST
+    - Play learning rate, batch size, different datasets
