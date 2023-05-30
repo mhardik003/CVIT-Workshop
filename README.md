@@ -147,6 +147,7 @@ Short rundown of tasks done on each day:
     - Image captioning
         - Multi-modality
         
+<<<<<<< HEAD
 
 #  Day 7
 ## Session 1
@@ -156,3 +157,5 @@ Short rundown of tasks done on each day:
         - Different Architectures
         - Hands-on with MNIST
     - Play learning rate, batch size, different datasets
+=======
+>>>>>>> a0b0d104f2b72282cf43103bab7e479a3def61c0
