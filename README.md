@@ -158,4 +158,4 @@ Short rundown of tasks done on each day:
         - Hands-on with MNIST
     - Play learning rate, batch size, different datasets
 =======
->>>>>>> a0b0d104f2b72282cf43103bab7e479a3def61c0
+
